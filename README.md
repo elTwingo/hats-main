@@ -1,9 +1,9 @@
-# HATS-2026-07-13-14909ce [MAIN]
+# HATS-2026-07-25-9fc95e2 [MAIN]
 # HATS Pack Summary
 
-**Generated on:** 13-07-2026 13:43:39 UTC  
+**Generated on:** 25-07-2026 11:44:24 UTC  
 **Builder Version:** 2.0.2-GUI  
-**Content Hash:** 14909ce  
+**Content Hash:** 9fc95e2  
 **Supported Firmware:** Up to 22.5.0  
 
 ---
@@ -15,11 +15,13 @@
 - **Hekatos** (6.5.3)
 
 ### Components Removed:
-- **HATS-Tools-nosyscfw** (1.7.0)
-- **Hekatos-nosyscfw** (6.5.3)
+- **HATS-Tools-noemucfw** (1.7.1)
+- **Hekatos-noemucfw** (6.5.3)
 
 ### Version Updates:
-- **ssbu-online-deluxe:** v1.1.2 → **v1.1.3**
+- **Lockpick_RCM_Pro:** 2.0.3 → **2.1.0**
+- **ssbu-online-deluxe:** v1.1.3 → **v1.2.0**
+- **ssbu-pia-interface:** v1.0.0 → **v1.1.0**
 
 ---
 
@@ -33,8 +35,8 @@
 - **imgui-smash** (v1.0.0) - Coolsonickirby/imgui-smash
 - **nro-hook-plugin** (v0.4.0) - ultimate-research/nro-hook-plugin
 - **smashline** (v1.6.6) - HDR-Development/smashline
-- **ssbu-online-deluxe** (v1.1.3) - saad-script/ssbu-online-deluxe
-- **ssbu-pia-interface** (v1.0.0) - project-ultelier/ssbu-pia-interface
+- **ssbu-online-deluxe** (v1.2.0) - saad-script/ssbu-online-deluxe
+- **ssbu-pia-interface** (v1.1.0) - project-ultelier/ssbu-pia-interface
 
 ### HOMEBREW APPS
 - **Goldleaf** (1.2.0) - XorTroll/Goldleaf
@@ -46,7 +48,7 @@
 
 ### PAYLOADS
 - **FuseCheck** (1.0.4) - sthetix/FuseCheck
-- **Lockpick_RCM_Pro** (2.0.3) - sthetix/Lockpick_RCM_Pro
+- **Lockpick_RCM_Pro** (2.1.0) - sthetix/Lockpick_RCM_Pro
 
 ### TESLA OVERLAYS
 - **Sys-patch** (v1.6.2.3) - borntohonk/sys-patch
