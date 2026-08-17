@@ -1,27 +1,19 @@
-# HATS-2026-07-25-9fc95e2 [MAIN]
+# HATS-2026-08-17-0747a0f [MAIN]
 # HATS Pack Summary
 
-**Generated on:** 25-07-2026 11:44:24 UTC  
-**Builder Version:** 2.0.2-GUI  
-**Content Hash:** 9fc95e2  
+**Generated on:** 17-08-2026 08:24:19 UTC  
+**Builder Version:** 2.0.2-CLI  
+**Content Hash:** 0747a0f  
 **Supported Firmware:** Up to 22.5.0  
 
 ---
 
 ## CHANGELOG (What's New Since Last Build)
 
-### New Components Added:
-- **HATS-Tools** (1.7.1)
-- **Hekatos** (6.5.3)
-
-### Components Removed:
-- **HATS-Tools-noemucfw** (1.7.1)
-- **Hekatos-noemucfw** (6.5.3)
-
 ### Version Updates:
-- **Lockpick_RCM_Pro:** 2.0.3 → **2.1.0**
-- **ssbu-online-deluxe:** v1.1.3 → **v1.2.0**
-- **ssbu-pia-interface:** v1.0.0 → **v1.1.0**
+- **Sphaira:** 1.0.0 -> **1.0.6**
+- **ssbu-online-deluxe:** v1.2.0 -> **v1.3.0**
+- **ssbu-pia-interface:** v1.1.0 -> **v1.2.0**
 
 ---
 
@@ -35,15 +27,15 @@
 - **imgui-smash** (v1.0.0) - Coolsonickirby/imgui-smash
 - **nro-hook-plugin** (v0.4.0) - ultimate-research/nro-hook-plugin
 - **smashline** (v1.6.6) - HDR-Development/smashline
-- **ssbu-online-deluxe** (v1.2.0) - saad-script/ssbu-online-deluxe
-- **ssbu-pia-interface** (v1.1.0) - project-ultelier/ssbu-pia-interface
+- **ssbu-online-deluxe** (v1.3.0) - saad-script/ssbu-online-deluxe
+- **ssbu-pia-interface** (v1.2.0) - project-ultelier/ssbu-pia-interface
 
 ### HOMEBREW APPS
 - **Goldleaf** (1.2.0) - XorTroll/Goldleaf
-- **HATS-Tools** (1.7.1) - sthetix/HATS-Tools
+- **HATS-Tools** (1.7.2) - sthetix/HATS-Tools
 - **JKSV** (12/02/2025) - J-D-K/JKSV
 - **Linkalho** (v2.0.2) - impeeza/linkalho
-- **Sphaira** (1.0.0) - ITotalJustice/sphaira
+- **Sphaira** (1.0.6) - ITotalJustice/sphaira
 - **Switch 90DNS Tester** (v1.1.0) - meganukebmp/Switch_90DNS_tester
 
 ### PAYLOADS
@@ -55,4 +47,4 @@
 
 ---
 
-<sub>Generated with HATSKit Pro Builder</sub>
+<sub>Generated with HATSKit Pro Builder (CLI)</sub>
